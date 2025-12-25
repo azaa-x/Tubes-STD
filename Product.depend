@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1765363859 source:c:\codebloc\product\product.cpp
+	"product.h"
+
+1765364140 c:\codebloc\product\product.h
+	<iostream>
+
+1765363911 source:c:\codebloc\product\main.cpp
+	<iostream>
+	"product.h"
+
+1765956744 source:c:\codebloc\producttt\product\main.cpp
+	"Product.h"
+	<iostream>
+
+1766287634 c:\codebloc\producttt\product\product.h
+	<iostream>
+
+1766287634 source:c:\codebloc\producttt\product\product.cpp
+	"Product.h"
+	<iostream>
+
+1766680252 source:d:\tugas nasywa\semester 3\std\tubes std\product\main.cpp
+	"Product.h"
+	<iostream>
+
+1766680252 d:\tugas nasywa\semester 3\std\tubes std\product\product.h
+	<iostream>
+
+1766680252 source:d:\tugas nasywa\semester 3\std\tubes std\product\product.cpp
+	"Product.h"
+	<iostream>
+
